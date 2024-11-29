@@ -1,4 +1,4 @@
-Gemini Chatbot Clone
+<h1>**Gemini Chatbot Clone**</h1>
 This project is a clone of the Gemini chatbot interface. It features a sleek and modern UI with light and dark modes, responsive design, and a simulated message generation feature. The chatbot provides an interactive user experience with typing effects, suggestions, and dynamic content loading.
 
 Features

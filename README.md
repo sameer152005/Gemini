@@ -1,7 +1,7 @@
-<h1>**Gemini Chatbot Clone**</h1>
+<h1>*Gemini Chatbot Clone*</h1>
 This project is a clone of the Gemini chatbot interface. It features a sleek and modern UI with light and dark modes, responsive design, and a simulated message generation feature. The chatbot provides an interactive user experience with typing effects, suggestions, and dynamic content loading.
 
-Features
+##Features
 Light/Dark Mode: Toggle between light and dark themes, with colors dynamically changing based on the user's selection.
 Responsive Design: Optimized for mobile and desktop devices, ensuring a smooth experience across various screen sizes.
 Message Interaction: Users can send messages, receive API-generated responses, and copy messages.
